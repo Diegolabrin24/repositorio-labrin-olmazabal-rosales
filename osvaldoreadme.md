@@ -1,5 +1,5 @@
 ```markdown
-# Análisis Crítico Individual
+## Análisis Crítico Individual
 
 ## ¿Por qué es relevante para ti realizar este tema?
 
