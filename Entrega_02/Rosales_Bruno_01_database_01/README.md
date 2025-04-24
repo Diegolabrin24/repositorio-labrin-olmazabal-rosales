@@ -31,7 +31,7 @@ Se eliminaron las siguientes columnas por no aportar valor a la hipótesis inves
 * `arm_reach_inch` (alcance de brazos)
 * `leg_reach_inch` (alcance de piernas)
 
-Estas variables no son relevantes para el análisis de estilos de pelea ni del origen de los peleadores. Si bien, tener extremidades más longevas o cortas puede determinar la forma en que un peleador lucha, no necesariamente determina su estilo de pelea ni tampoco es propicio para la investigación, ya que se ampliaria considerablemente más el foco del proyecto.
+Estas variables no son relevantes para el análisis de estilos de pelea ni del origen de los peleadores. Si bien, tener extremidades más longevas o cortas puede determinar la forma en que un peleador lucha, no necesariamente determina su estilo de pelea ni tampoco es propicio para la investigación, ya que se ampliaría considerablemente más el foco del proyecto.
 
 ### Paso 4: Filtrado geográfico
 
