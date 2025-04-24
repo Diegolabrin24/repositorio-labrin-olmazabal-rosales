@@ -1,0 +1,81 @@
+﻿nombre;apellido;ciudad;pais;edad;victorias;derrotas;empates;porcentaje_victorias;porcentaje_derrotas;numero_pelea;division_peso;altura_pies;peso_libras;estilo_pelea;debut
+Islam;Makhachev;Dagestan Republic;Russia;33;26;1;0;9,62963E+15;3,7037E+16;27;Lightweight Division;5,83333E+15;155;Sambo;23-05-2015
+Jon;Jones;Rochester;United States;37;28;1;0;9,65517E+15;3,44828E+16;29;Heavyweight Division;6,33333E+15;2376;NA;09-08-2008
+Belal;Muhammad;Chicago;United States;36;24;3;0;8,88889E+15;1,11111E+15;27;Welterweight Division;5,91667E+15;169;NA;07-07-2016
+Merab;Dvalishvili;Tbilisi;Georgia;33;18;4;0;8,18182E+15;1,81818E+16;22;Bantamweight Division;55;134;Freestyle;09-12-2017
+Max;Holloway;Oahu;United States;32;26;8;0;7,64706E+15;2,35294E+15;34;Featherweight Division;5,91667E+15;145;Muay Thai;04-02-2012
+Sean;O'Malley;Helena;United States;30;18;2;0;90;10;20;Bantamweight Division;5,91667E+15;135;NA;18-07-2017
+Sean;Strickland;;United States;33;29;6;0;8,28571E+15;1,71429E+16;35;Middleweight Division;6,08333E+15;185;MMA;15-03-2014
+Brandon;Royval;Denver;United States;32;17;7;0;7,08333E+15;2,91667E+16;24;Flyweight Division;575;1255;Brawler;30-05-2020
+Alex;Perez;Hanford;United States;32;25;9;0;7,35294E+15;2,64706E+15;34;Flyweight Division;55;126;Freestyle;08-08-2017
+Tim;Elliott;;United States;37;21;13;1;6,17647E+15;3,82353E+15;34;Bantamweight Division;5,58333E+15;136;Freestyle;05-05-2012
+Tagir;Ulanbekov;Dagestan;Russia;33;16;2;0;8,88889E+15;1,11111E+15;18;Flyweight Division;5,58333E+15;1295;Grappler;10-10-2020
+Charles;Johnson;Topeka;United States;33;17;6;0;7,3913E+15;2,6087E+15;23;Flyweight Division;575;126;NA;23-07-2022
+Umar;Nurmagomedov;Republic of Dagestan;Russia;28;18;0;0;100;0;18;Bantamweight Division;5,66667E+15;135;MMA;20-01-2021
+Petr;Yan;Krasnoyarsk Krai;Russia;31;18;5;0;7,82609E+15;2,17391E+15;23;Bantamweight Division;5625;1355;Boxer;23-06-2018
+Cory;Sandhagen;Aurora;United States;32;17;5;0;7,72727E+15;2,27273E+16;22;Bantamweight Division;5,91667E+15;136;MMA;28-01-2018
+Henry;Cejudo;Los Angeles;United States;37;16;4;0;80;20;20;Bantamweight Division;5,33333E+15;135;Wrestling;13-12-2014
+Rob;Font;Leominster;United States;37;21;8;0;7,24138E+15;2,75862E+16;29;Bantamweight Division;5,66667E+15;1355;Striker;05-07-2014
+Mario;Bautista;Winnemucca;United States;31;15;2;0;8,82353E+15;1,17647E+15;17;Bantamweight Division;575;136;Freestyle;19-01-2019
+Kyler;Phillips;Torrance;United States;29;12;3;0;80;20;15;Bantamweight Division;5,66667E+15;1355;NA;01-08-2017
+Marcus;McGhee;Detroit;United States;34;10;1;0;9,09091E+14;9,09091E+15;11;Bantamweight Division;5,66667E+15;1356;Brazilian Jiu-Jitsu;29-04-2023
+Montel;Jackson;Milwaukee;United States;32;15;2;0;8,82353E+15;1,17647E+15;17;Bantamweight Division;5,83333E+15;135;MMA;04-08-2018
+Movsar;Evloev;Ingushetia;Russia;30;19;0;0;100;0;19;Featherweight Division;5,58333E+15;1455;Freestyle;20-04-2019
+Brian;Ortega;Carson;United States;33;16;4;0;80;20;20;Featherweight Division;5,66667E+15;146;Jiu-Jitsu;26-07-2014
+Josh;Emmett;Phoenix;United States;39;19;4;0;8,26087E+14;1,73913E+16;23;Featherweight Division;5,54167E+15;146;Freestyle;08-05-2016
+Aljamain;Sterling;;United States;35;24;5;0;8,27586E+15;1,72414E+15;29;Featherweight Division;5,58333E+15;1455;Kickboxer;22-02-2014
+Calvin;Kattar;Methuen;United States;36;23;8;0;7,41935E+15;2,58065E+16;31;Featherweight Division;5,91667E+15;1455;Freestyle;29-07-2017
+Giga;Chikadze;Tbilisi;Georgia;36;15;4;0;7,89474E+15;2,10526E+16;19;Featherweight Division;6;146;Karate;28-09-2019
+Bryce;Mitchell;Texarkana;United States;30;17;3;0;85;15;20;Featherweight Division;5,83333E+15;146;MMA;06-07-2018
+Dan;Ige;San Clemente;United States;33;18;9;0;6,66667E+15;3,33333E+15;27;Featherweight Division;5,58333E+15;146;Jiu-Jitsu;25-07-2017
+Arman;Tsarukyan;;Georgia;28;22;3;0;88;12;25;Lightweight Division;5,58333E+15;156;Kickboxer;20-04-2019
+Justin;Gaethje;Tucson;United States;36;26;5;0;8,3871E+15;1,6129E+16;31;Lightweight Division;5,91667E+15;156;MMA;08-07-2017
+Dustin;Poirier;Lafayette;United States;35;30;9;0;7,69231E+15;2,30769E+16;39;Lightweight Division;575;155;Jiu-Jitsu;02-01-2011
+Michael;Chandler;High Ridge;United States;38;23;9;0;71875;28125;32;Lightweight Division;5,66667E+15;1556;Wrestler;23-01-2021
+Mateusz;Gamrot;Bielsko;Poland;34;24;3;0;8,88889E+15;1,11111E+15;27;Lightweight Division;5,83333E+15;156;Wrestling;17-10-2020
+Jalin;Turner;Los Angeles;United States;29;14;8;0;6,36364E+15;3,63636E+15;22;Lightweight Division;625;1555;MMA;07-10-2018
+Sean;Brady;Philadelphia;United States;32;17;1;0;9,44444E+15;5,55556E+15;18;Welterweight Division;5,83333E+15;171;Brazilian Jiu-Jitsu;18-10-2019
+Joaquin;Buckley;;United States;30;21;6;0;7,77778E+15;2,22222E+15;27;Welterweight Division;5,83333E+15;171;Freestyle;08-08-2020
+Colby;Covington;;United States;36;17;5;0;7,72727E+15;2,27273E+16;22;Welterweight Division;5,91667E+15;171;Wrestling;23-08-2014
+Geoff;Neal;Austin;United States;34;16;6;0;7,27273E+15;2,72727E+15;22;Welterweight Division;5,91667E+15;171;Striker;18-02-2018
+Stephen;Thompson;Greenville;United States;41;17;8;1;68;32;25;Welterweight Division;6;171;Karate;04-02-2012
+Vicente;Luque;Westwood;United States;33;23;10;1;6,9697E+14;3,0303E+16;33;Welterweight Division;5,91667E+15;1705;Muay Thai;12-07-2015
+Khamzat;Chimaev;;Russia;29;14;0;0;100;0;14;Middleweight Division;6,16667E+15;185;Wrestler;15-07-2020
+Nassourdine;Imavov;;Russia;29;15;4;0;7,89474E+15;2,10526E+16;19;Middleweight Division;625;186;Striker;03-10-2020
+Jared;Cannonier;Dallas;United States;40;17;8;0;68;32;25;Middleweight Division;5,91667E+15;184;Striker;03-01-2015
+Brendan;Allen;Beaufort;United States;28;24;6;0;80;20;30;Middleweight Division;6,16667E+15;186;MMA;18-10-2019
+Roman;Dolidze;Batumi;Georgia;36;14;3;0;8,23529E+15;1,76471E+16;17;Middleweight Division;6,16667E+15;1855;MMA;18-07-2020
+Anthony;Hernandez;Oakland;United States;31;13;2;0;8,66667E+15;1,33333E+16;15;Middleweight Division;6;1855;Striker;02-02-2019
+Shara;Magomedov;Republic of Dagestan;Russia;30;15;0;0;100;0;15;Middleweight Division;6,16667E+15;185;NA;21-10-2023
+Magomed;Ankalaev;;Russia;32;20;1;1;9,52381E+15;4,7619E+15;21;Light Heavyweight Division;625;2045;MMA;17-03-2018
+Jamahal;Hill;Chicago;United States;33;12;2;0;8,57143E+15;1,42857E+16;14;Light Heavyweight Division;6,33333E+15;205;MMA;25-01-2020
+Jan;Błachowicz;Cieszyn;Poland;41;29;10;1;7,4359E+15;2,5641E+15;39;Light Heavyweight Division;6,16667E+15;205;MMA;04-10-2014
+Khalil;Rountree Jr.;Los Angeles;United States;34;14;6;0;70;30;20;Light Heavyweight Division;6,08333E+15;205;MMA;09-07-2016
+Nikita;Krylov;;Ukraine;32;30;9;0;7,69231E+15;2,30769E+16;39;Light Heavyweight Division;625;213;Karate;01-09-2013
+Dominick;Reyes;Apple Valley;United States;34;14;4;0;7,77778E+15;2,22222E+15;18;Light Heavyweight Division;6,33333E+15;205;Kickboxer;26-06-2017
+Azamat;Murzakanov;Nalchik;Russia;35;14;0;0;100;0;14;Light Heavyweight Division;5,83333E+15;205;MMA;20-11-2021
+Anthony;Smith;Corpus Christi;United States;36;38;21;0;6,44068E+15;3,55932E+15;59;Light Heavyweight Division;6,33333E+15;2055;Freestyle;19-08-2012
+Alonzo;Menifield;Los Angeles;United States;37;15;5;1;75;25;20;Light Heavyweight Division;6;205;Freestyle;19-01-2019
+Alexander;Volkov;Moscow;Russia;36;38;11;0;7,7551E+15;2,2449E+16;49;Heavyweight Division;6,58333E+15;2545;Brazilian Jiu-Jitsu;19-11-2016
+Sergei;Pavlovich;;Russia;32;18;3;0;8,57143E+15;1,42857E+16;21;Heavyweight Division;625;260;MMA;24-11-2018
+Curtis;Blaydes;Naperville;United States;33;18;5;0;7,82609E+15;2,17391E+15;23;Heavyweight Division;6,33333E+15;256;MMA;10-04-2016
+Serghei;Spivac;Chisinau;Moldova;29;17;4;0;8,09524E+15;1,90476E+16;21;Heavyweight Division;625;260;Sambo;04-05-2019
+Marcin;Tybura;Uniejow;Poland;39;26;9;0;7,42857E+15;2,57143E+15;35;Heavyweight Division;625;251;MMA;10-04-2016
+Derrick;Lewis;New Orleans;United States;39;28;12;0;70;30;40;Heavyweight Division;625;266;Brawler;19-04-2014
+Shamil;Gaziev;Dagestan;Russia;34;13;1;0;9,28571E+15;7,14286E+15;14;Heavyweight Division;6,33333E+15;262;MMA;16-12-2023
+Julianna;Peña;Spokane;United States;35;13;5;0;7,22222E+15;2,77778E+15;18;Women's Bantamweight Division;55;1345;NA;01-12-2013
+Erin;Blanchfield;;United States;25;13;2;0;8,66667E+15;1,33333E+16;15;Women's Flyweight Division;5,33333E+15;1255;Jiu-Jitsu;18-09-2021
+Rose;Namajunas;Milwaukee;United States;32;14;7;0;6,66667E+15;3,33333E+15;21;Women's Flyweight Division;5,41667E+15;125;MMA;12-12-2014
+Raquel;Pennington;Colorado Springs;United States;36;16;10;0;6,15385E+15;3,84615E+15;26;Women's Bantamweight Division;5,58333E+15;135;Freestyle;01-12-2013
+Tatiana;Suarez;Bellflower;United States;33;11;0;0;100;0;11;Women's Strawweight Division;5,41667E+15;1155;MMA;09-07-2016
+Maycee;Barber;Greeley;United States;26;14;2;0;875;125;16;Women's Flyweight Division;5,41667E+15;125;Freestyle;10-11-2018
+Mackenzie;Dern;;United States;31;14;5;0;7,36842E+15;2,63158E+15;19;Women's Strawweight Division;5,33333E+15;1155;Brazilian Jiu-Jitsu;03-03-2018
+Angela;Hill;Clinton;United States;39;17;14;0;5,48387E+15;4,51613E+15;31;Women's Strawweight Division;525;1155;Muay Thai;12-12-2014
+Tecia;Pennington;Fall River;United States;35;14;7;0;6,66667E+15;3,33333E+15;21;Women's Strawweight Division;5,08333E+15;115;Kickboxer;12-12-2014
+Tracy;Cortez;Phoenix;United States;31;11;2;0;8,46154E+15;1,53846E+16;13;Women's Flyweight Division;5,41667E+15;126;MMA;16-11-2019
+Miranda;Maverick;Jefferson City;United States;27;17;5;0;7,72727E+15;2,27273E+16;22;Women's Flyweight Division;5,29167E+15;126;Jiu-Jitsu;27-06-2020
+Macy;Chiasson;;United States;33;11;3;0;7,85714E+15;2,14286E+16;14;Women's Bantamweight Division;5,91667E+15;1355;MMA;30-11-2018
+Holly;Holm;Albuquerque;United States;43;15;7;0;6,81818E+15;3,18182E+16;22;Women's Bantamweight Division;5,66667E+15;136;Kickboxer;28-02-2015
+Yana;Santos;;Russia;35;15;8;0;6,52174E+15;3,47826E+15;23;Women's Bantamweight Division;55;1355;MMA;03-03-2018
+Julia;Avila;Los Angeles;United States;36;9;3;0;75;25;12;Women's Bantamweight Division;5,58333E+15;1355;NA;06-07-2019
+Chelsea;Chandler;Stockton;United States;34;6;3;0;6,66667E+15;3,33333E+15;9;Women's Bantamweight Division;5,70833E+15;141;MMA;01-10-2022
