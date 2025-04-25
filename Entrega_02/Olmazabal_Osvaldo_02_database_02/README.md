@@ -77,7 +77,4 @@ Se construyó una base con las siguientes columnas:
 
 ---
 
-Esta base de datos es útil para visualizar y analizar cómo los factores físicos y estratégicos influyen en el desempeño de los peleadores. Su limpieza permite avanzar en la validación de la hipótesis sobre el impacto del estilo (como el sambo) y el origen geográfico (como Daguestán) en los resultados de peleas por el campeonato.
-
-La base está preparada para ser complementada con otras fuentes, como resultados históricos de peleas por cinturón o rankings de campeones.
-
+Esta base de datos es útil para visualizar y analizar cómo los factores físicos y estratégicos influyen en el desempeño de los peleadores. Su limpieza permite avanzar en la validación de la hipótesis sobre el impacto del estilo (como el sambo) y el origen geográfico (como Daguestán) en los resultados de peleas por el campeonato. La base está preparada para ser complementada con otras fuentes, como resultados históricos de peleas por cinturón o rankings de campeones.
