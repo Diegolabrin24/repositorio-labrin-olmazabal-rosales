@@ -4,8 +4,6 @@
 
 Este documento detalla el proceso de limpieza y preparación de la base de datos utilizada para el análisis del proyecto individual. El objetivo fue construir una base limpia, coherente y útil para analizar el impacto de los estilos de pelea y origen de los peleadores en las peleas por cinturones de campeonato en la UFC.
 
----
-
 ## Herramientas utilizadas
 
 - Python
@@ -13,13 +11,12 @@ Este documento detalla el proceso de limpieza y preparación de la base de datos
 - Google Colab (alternativamente puede usarse Jupyter Notebook)
 - Editor de texto para documentación (VSCode, Typora, etc.)
 
----
 
 ## Pasos del proceso de limpieza
 
 ### 1. Carga del archivo original
 
-Se utilizó el archivo `raw_fighter_details.csv`, que contiene los datos sin procesar de 3596 peleadores registrados en la UFC.
+Se utilizó el archivo `UFC_fighter_original.csv`, que contiene los datos sin procesar de 3596 peleadores registrados en la UFC.
 
 ### 2. Identificación de variables clave
 
@@ -79,8 +76,6 @@ Se construyó una base con las siguientes columnas:
 5. ¿Qué estilos tienen mayor frecuencia de victorias por puntos versus nocaut o sumisión?
 
 ---
-
-## Consideraciones finales
 
 Esta base de datos es útil para visualizar y analizar cómo los factores físicos y estratégicos influyen en el desempeño de los peleadores. Su limpieza permite avanzar en la validación de la hipótesis sobre el impacto del estilo (como el sambo) y el origen geográfico (como Daguestán) en los resultados de peleas por el campeonato.
 
