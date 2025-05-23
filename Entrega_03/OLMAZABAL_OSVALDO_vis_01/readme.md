@@ -1,6 +1,5 @@
-# README - Entrega 03: Visualización Individual
+Entrega 03: Visualización Individual
 
-## Título de la visualización
 **Las huellas del estilo: cómo se pelea en la UFC, según la postura**
 
 ---
