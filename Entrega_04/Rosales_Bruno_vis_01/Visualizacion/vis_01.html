@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<div class="vega-visualization" id="vega-visualization-ad9242ce1eef4f9a8396fdeadd7e759a"></div>
+<script type="text/javascript">
+  const spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-8af7de8bf8188abedac47fbc84e0fa78"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "region", "title": "Regi\u00f3n", "type": "nominal"}, "tooltip": [{"field": "region", "type": "nominal"}, {"field": "estilo_pelea", "type": "nominal"}, {"field": "cantidad", "type": "quantitative"}], "x": {"field": "cantidad", "title": "Cantidad de peleadores", "type": "quantitative"}, "y": {"field": "estilo_pelea", "sort": "-x", "title": "Estilo de pelea", "type": "nominal"}}, "height": 400, "title": "Estilos de pelea por regi\u00f3n: Estados Unidos vs Europa del Este", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8af7de8bf8188abedac47fbc84e0fa78": [{"region": "Estados Unidos", "estilo_pelea": "Brawler", "cantidad": 2}, {"region": "Estados Unidos", "estilo_pelea": "Brazilian Jiu-Jitsu", "cantidad": 3}, {"region": "Estados Unidos", "estilo_pelea": "Freestyle", "cantidad": 10}, {"region": "Estados Unidos", "estilo_pelea": "Jiu-Jitsu", "cantidad": 5}, {"region": "Estados Unidos", "estilo_pelea": "Karate", "cantidad": 1}, {"region": "Estados Unidos", "estilo_pelea": "Kickboxer", "cantidad": 4}, {"region": "Estados Unidos", "estilo_pelea": "MMA", "cantidad": 15}, {"region": "Estados Unidos", "estilo_pelea": "Muay Thai", "cantidad": 3}, {"region": "Estados Unidos", "estilo_pelea": "Striker", "cantidad": 4}, {"region": "Estados Unidos", "estilo_pelea": "Wrestler", "cantidad": 1}, {"region": "Estados Unidos", "estilo_pelea": "Wrestling", "cantidad": 2}, {"region": "Europa del Este", "estilo_pelea": "Boxer", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "Brazilian Jiu-Jitsu", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "Freestyle", "cantidad": 2}, {"region": "Europa del Este", "estilo_pelea": "Grappler", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "Karate", "cantidad": 2}, {"region": "Europa del Este", "estilo_pelea": "Kickboxer", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "MMA", "cantidad": 9}, {"region": "Europa del Este", "estilo_pelea": "Sambo", "cantidad": 2}, {"region": "Europa del Este", "estilo_pelea": "Striker", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "Wrestler", "cantidad": 1}, {"region": "Europa del Este", "estilo_pelea": "Wrestling", "cantidad": 1}]}};
+  const embedOpt = {};
+  vegaEmbed('#vega-visualization-ad9242ce1eef4f9a8396fdeadd7e759a', spec, embedOpt).catch(console.error);
+</script>
+</body>
+</html>
