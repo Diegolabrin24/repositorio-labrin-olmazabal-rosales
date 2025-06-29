@@ -50,3 +50,22 @@ Los peleadores de Asia, Norteamérica y Eurasia tienden a ganar en peleas más l
 
 - **Base usada:** `union-clean.csv`  
 - **Imagen:** `duracion_promedio_por_region_optimo.jpg`
+
+  ---
+  
+## Visualización 4: Evolución de métodos de finalización en UFC (2010–2024)
+
+**Objetivo:**  
+Explorar cómo ha cambiado la frecuencia relativa de los principales métodos de finalización de peleas (KO/TKO, sumisión, decisión) a lo largo del tiempo.
+
+**Dimensiones:**  
+- Eje X: Año del combate  
+- Eje Y: Número total de victorias por tipo de finalización  
+- Color: Tipo de finalización
+
+**Mensaje clave:**  
+El gráfico revela un aumento progresivo en las victorias por decisión desde 2010, lo que puede interpretarse como una señal de mayor paridad competitiva, preparación táctica o cambios en las estrategias de combate. Mientras tanto, los nocauts (KO/TKO) y las sumisiones se mantienen más estables, aunque con leves oscilaciones según el año. La visualización sugiere que las peleas actuales tienden a alargarse más y definirse por puntos, reflejando un nivel técnico más parejo entre los luchadores.
+
+- **Base usada:** `union-clean.csv`  
+- **Imagen:** `evolucion_finalizaciones_retro_FIX.jpg`
+
