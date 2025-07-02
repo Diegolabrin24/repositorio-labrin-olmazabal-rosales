@@ -54,13 +54,9 @@ Por ello, el grupo reformuló su pregunta y orientó el proyecto hacia un análi
 
 ---
 
-Libreto de presentación - Entrega 05: Narración Gráfica UFC
+## Explicacion de la evolución de nuestro proyecto
 
-Este documento sirve como guía para la presentación oral del proyecto final del curso de Narración Gráfica. El grupo está conformado por Diego Labrin, Osvaldo Olmazabal y Bruno Rosales. La presentación se divide en tres bloques temáticos con un cierre conjunto. A continuación, se detallan los contenidos para cada integrante:
-
-Introducción contextual sugerida (puede exponer Diego o Bruno)
-
-Hola, yo soy Diego Labrin, y voy a comenzar presentando el enfoque general de nuestro proyecto de investigación de datos.
+Este documento sirve como guía para la presentación oral del proyecto final del curso de Narración Gráficay para mostrar la evolución de nuestro proyecto durante todo el semestre. El grupo está conformado por Diego Labrin, Osvaldo Olmazabal y Bruno Rosales. 
 
 La Ultimate Fighting Championship, más conocida como UFC, es la organización de artes marciales mixtas más grande y reconocida del mundo. Fue fundada en 1993 en Estados Unidos, y su idea original era enfrentar a peleadores de distintas disciplinas —como jiu-jitsu, boxeo, lucha olímpica o karate— para determinar cuál era la más efectiva en combate real.
 
@@ -86,9 +82,9 @@ La pregunta pasó a ser: ¿cómo ha influido la globalización de la UFC en los 
  
 Eso nos permitió construir un análisis más amplio y visualmente potente, con datos representativos de todas las regiones del mundo. También desarrollamos visualizaciones adicionales como el gráfico de evolución de métodos de finalización por año, generado con Python y estilizado con paleta arcade.
 
-Metodologia detallada
+## Metodologia detallada
 
-Además del planteamiento general, quiero profundizar ahora en la metodología que seguimos para trabajar con los datos y construir nuestras visualizaciones.
+Además del planteamiento general, quisimos profundizar ahora en la metodología que seguimos para trabajar con los datos y construir nuestras visualizaciones.
 
 Partimos trabajando con tres bases principales:
 
@@ -120,9 +116,7 @@ Una vez con los datos limpios, generamos visualizaciones que nos permitieran pro
 
 Todo este proceso fue documentado y se encuentra en el repositorio público del proyecto, junto con los archivos .py y .ipynb que usamos para generar cada gráfico.
 
-Parte 2 – Bruno Rosales: Narrativa y contenido textual
-
-Hola, yo soy Bruno Rosales y estuve a cargo principalmente del reporteo, la escritura narrativa y el análisis de los datos en formato historia.
+## Narrativa y contenido textual
  
 Una vez definido el nuevo foco, escribimos una historia completa, con estilo de reportaje periodístico, pensada para ser publicada como una webstory. El texto está basado en datos y evidencia visual, pero también tiene estructura narrativa: comienza con el caso de Israel Adesanya en UFC 243 como ejemplo de la internacionalización, y luego desarrolla cómo la UFC pasó de ser un evento estadounidense a un fenómeno global.
  
@@ -132,7 +126,7 @@ También nos preocupamos por referenciar fuentes confiables, como ESPN, Wikipedi
  
 Toda esta historia fue montada en la página principal del sitio web, y se puede recorrer de forma lineal, con imágenes, gifs y visualizaciones integradas en cada etapa del relato. Usamos un lenguaje formal pero accesible, combinando análisis crítico con recursos visuales atractivos.
 
-Análisis de visualizaciones
+## Análisis de visualizaciones
 
 Visualización 1 — Diego Labrin: Diversificación del origen de los peleadores en UFC (2010–2024)
 
@@ -142,7 +136,7 @@ Lo que observamos es que, si bien Estados Unidos sigue siendo el país con mayor
 
 Esto confirma directamente nuestra hipótesis sobre la globalización de la UFC, y da contexto a por qué estilos como el Sambo o el grappling están ganando presencia: son propios de regiones que hoy tienen más peleadores que antes.
 
-Visualización 2 — Bruno Rosales: Formas de finalización de las peleas por región (2010–2021)
+## Visualización 2 — Bruno Rosales: Formas de finalización de las peleas por región (2010–2021)
 
 Esta gráfica de barras agrupadas muestra qué tipo de finalización predomina por región: KO/TKO, sumisión o decisión (dividida, unánime, etc.). Usamos datos desde 2010 y filtramos solo las peleas ganadas.
 
@@ -150,7 +144,7 @@ Lo interesante es que las regiones como Brasil y Eurasia tienen más victorias p
 
 Esta información da evidencia a la hipótesis sobre la evolución del estilo de pelea: los peleadores más recientes ganan con menos espectáculo (menos nocaut) y más control técnico, como las sumisiones. Además, confirma el dominio brasileño en BJJ y ruso en Sambo como formas efectivas para finalizar peleas.
 
-Visualización 3 — Osvaldo Olmazabal: Duración promedio de las peleas ganadas por región
+## Visualización 3 — Osvaldo Olmazabal: Duración promedio de las peleas ganadas por región
 
 Esta visualización, diseñada como una barra horizontal retro, muestra cuánto duran en promedio las peleas ganadas por peleadores de cada región.
 
@@ -158,9 +152,7 @@ Los datos muestran que las regiones con más KO (como Oceanía y Estados Unidos)
 
 Además de aportar al análisis, nos preocupamos de que esta gráfica siguiera el estilo arcade del resto del sitio: con tipografía pixelada, colores brillantes y una barra clara que reflejara duración visual. Es un ejemplo de cómo los datos pueden presentarse de forma entretenida sin perder rigurosidad.
 
-Parte 3 – Osvaldo Olmazabal: Diseño visual, experiencia e interacción
-
-Yo soy Osvaldo Olmazabal y me encargué del diseño visual, el desarrollo gráfico y la identidad estética del sitio. Desde el comienzo nos propusimos que la historia no solo se entendiera por lo que decía, sino también por cómo se veía y cómo se recorría.
+## Diseño visual, experiencia e interacción
 
 Optamos por una estética retro arcade, inspirada en videojuegos como Street Fighter I y II, que marcaron visual y culturalmente el mundo de los combates. La tipografía pixelada, los bordes brillantes, los botones tipo consola y los efectos sonoros simulan la experiencia de estar en una máquina de pelea, pero con contenido periodístico y basado en datos reales
 Diseñamos la página usando HTML, CSS y JavaScript. Los colores principales son azul marino de fondo y neones como naranja, magenta y cian. Usamos tipografías como “Press Start 2P” para títulos y botones, que refuerzan el look pixelado. También creamos una galería animada con gifs de peleadores, botones tipo START y CONTINUE, y un efecto de transición tipo videojuego entre pantallas.
@@ -182,8 +174,6 @@ También ajustamos contrastes de color —por ejemplo, cambiamos letras grises p
 Por último, nos aseguramos de que las visualizaciones siguieran la misma estética: con estilo arcade, colores encendidos, y nombres de ejes tipografiados para que parecieran parte de un videojuego. La coherencia visual entre historia, gráficas y diseño fue clave para darle fuerza al enfoque narrativo del sitio.
  
 Además, incluimos un mapa interactivo hecho con Folium, donde se pueden ver las ubicaciones geográficas de los peleadores. Ese mapa se integró como un iframe y fue generado desde un Jupyter Notebook. También se exportaron todas las visualizaciones con estilo retro, y se agregaron los archivos .py o .ipynb en el repositorio.
-
-Cierre conjunto sugerido
 
 En conclusión, este proyecto nos permitió investigar una hipótesis realista, trabajar con datos limpios, comunicar visualmente nuestros hallazgos y además experimentar con narrativa digital.
  
