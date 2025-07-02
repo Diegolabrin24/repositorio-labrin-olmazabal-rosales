@@ -8,7 +8,7 @@ El resultado se presenta en formato de página web tipo webstory, combinando gr�
 
 ## Hipótesis trabajada
 
-> A medida que la UFC se ha globalizado, se ha producido una diversificación geográfica del origen de los peleadores, lo que ha influido directamente en los estilos de combate y en las formas de finalización de las peleas.
+"A medida que la UFC se ha globalizado, se ha producido una diversificación geográfica del origen de los peleadores, lo que ha influido directamente en los estilos de combate y en las formas de finalización de las peleas".
 
 ## ¿Qué pasó con la hipótesis inicial?
 
