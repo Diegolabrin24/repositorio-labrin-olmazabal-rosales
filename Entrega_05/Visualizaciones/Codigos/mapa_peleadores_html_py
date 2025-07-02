@@ -1,0 +1,30 @@
+import pandas as pd
+import plotly.express as px
+
+# Cargar el archivo
+df = pd.read_excel("/union-clean 1.xlsx")
+
+# Filtrar por años relevantes
+df = df[(df["Year"] >= 2010) & (df["Year"] <= 2021)]
+
+# Contar peleadores únicos por nacionalidad
+country_counts = df.groupby("Nationality")["Fighter"].nunique().reset_index()
+country_counts.columns = ["Country", "FighterCount"]
+
+# Crear mapa de calor
+fig = px.choropleth(
+    country_counts,
+    locations="Country",
+    locationmode="country names",
+    color="FighterCount",
+    hover_name="Country",
+    color_continuous_scale="Viridis",
+    title="Diversificación de Origen de Peleadores UFC (2010–2021)"
+)
+
+fig.update_layout(
+    geo=dict(showframe=False, showcoastlines=False),
+    coloraxis_colorbar=dict(title="N° de Peleadores")
+)
+
+fig.show()
