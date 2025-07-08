@@ -1,0 +1,33 @@
+# Repetir la visualización sin el borde derecho (spine)
+plt.figure(figsize=(8, 4))
+sns.set(style="whitegrid")
+ax = sns.barplot(
+    x=region_duration.values,
+    y=region_duration.index,
+    color='#8A63CC'
+)
+
+plt.title("Duración promedio de peleas ganadas por región (UFC 2010–2024)", fontsize=14, color='yellow', weight='bold')
+plt.xlabel("Duración promedio de peleas ganadas (minutos)", fontsize=12, color='yellow')
+plt.ylabel("Región del peleador", fontsize=12, color='yellow')
+
+for i, v in enumerate(region_duration.values):
+    ax.text(v + 0.1, i, f"{v:.1f}", color='yellow', va='center', fontsize=10, fontweight='bold')
+
+# Fondo y ejes
+ax.set_facecolor('#002244')
+plt.gca().set_facecolor('#002244')
+plt.gcf().patch.set_facecolor('#002244')
+ax.tick_params(colors='yellow')
+plt.xticks(color='yellow')
+plt.yticks(color='yellow')
+
+# Quitar borde derecho
+ax.spines['right'].set_visible(False)
+
+plt.tight_layout()
+output_path = "/mnt/data/duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER.jpg"
+plt.savefig(output_path, dpi=300, bbox_inches='tight')
+plt.show()
+
+output_path
