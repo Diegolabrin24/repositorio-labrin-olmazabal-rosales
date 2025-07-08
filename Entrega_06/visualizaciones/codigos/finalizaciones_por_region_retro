@@ -1,0 +1,55 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Filtrar por las regiones seleccionadas
+regiones_finales = ['United States', 'Brazil', 'Eurasia', 'Asia']
+df_final = df[df['Region'].isin(regiones_finales)]
+
+# Traducir tipos de finalización seleccionados
+traducciones = {
+    'U-DEC': 'Decisión Unánime',
+    'KO/TKO': 'Nocaut/KO Técnico',
+    'SUB': 'Sumisión',
+    'S-DEC': 'Decisión Dividida'
+}
+
+# Colores personalizados (orden: más frecuente → menos)
+colores_personalizados = ['#5D1A8E', '#0077B6', '#72B5E6', '#FFD700']  # morado oscuro, azul, celeste, amarillo
+
+# Configurar estilo retro
+sns.set_style("dark")
+plt.rcParams['axes.facecolor'] = '#000e38'  # Fondo retro
+plt.rcParams['figure.facecolor'] = '#000e38'
+plt.rcParams['savefig.facecolor'] = '#000e38'
+plt.rcParams['text.color'] = '#FFD700'
+plt.rcParams['axes.labelcolor'] = '#FFD700'
+plt.rcParams['xtick.color'] = '#FFD700'
+plt.rcParams['ytick.color'] = '#FFD700'
+plt.rcParams['axes.titlecolor'] = '#FFD700'
+
+# Crear figura
+fig, axes = plt.subplots(2, 2, figsize=(14, 10))
+fig.suptitle('Métodos de Finalización por Región (UFC 2010–2021)', fontsize=16, fontweight='bold', color='#FFD700')
+
+# Graficar por región
+for ax, region in zip(axes.flatten(), regiones_finales):
+    data_region = df_final[df_final['Region'] == region]
+    conteo = data_region['Finish'].value_counts()
+    conteo_filtrado = conteo.loc[conteo.index.intersection(traducciones.keys())]
+    conteo_filtrado = conteo_filtrado.sort_values(ascending=False)
+
+    etiquetas_traducidas = [traducciones[k] for k in conteo_filtrado.index]
+    colores = colores_personalizados[:len(conteo_filtrado)]
+
+    sns.barplot(x=conteo_filtrado.values, y=etiquetas_traducidas, ax=ax, palette=colores)
+
+    ax.set_title(region, fontsize=12)
+    ax.set_xlabel('Cantidad de peleas ganadas', fontsize=11)
+    ax.set_ylabel('Tipo de finalización', fontsize=11)
+
+plt.tight_layout(rect=[0, 0, 1, 0.96])
+
+# Guardar
+ruta_img = '/mnt/data/finalizaciones_por_region_retro_style.jpg'
+plt.savefig(ruta_img, dpi=300)
+plt.show()
