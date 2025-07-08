@@ -1,0 +1,34 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Cargar la base de datos (ajusta el nombre del archivo a tu base real)
+df = pd.read_csv('evolucion_finalizaciones.csv')  # Cambia el nombre por el tuyo
+
+plt.figure(figsize=(14, 8))
+plt.style.use('dark_background')
+
+# Graficar cada método de finalización
+plt.plot(df['Año'], df['KO/TKO'], marker='o', color='red', label='KO/TKO', linewidth=3)
+plt.plot(df['Año'], df['Submission'], marker='o', color='green', label='Submission', linewidth=3)
+plt.plot(df['Año'], df['Decision Unanimous'], marker='o', color='yellow', label='Decision Unanimous', linewidth=3)
+plt.plot(df['Año'], df['Decision Divided'], marker='o', color='orange', label='Decision Divided', linewidth=3)
+
+# Título y etiquetas
+plt.title('Evolución de los métodos de finalización en la UFC (2010-2024)', fontsize=24, fontweight='bold', color='yellow')
+plt.xlabel('Año', fontsize=16, color='yellow')
+plt.ylabel('Cantidad de peleas ganadas', fontsize=16, color='yellow')
+
+# Leyenda
+plt.legend(title='Método de finalización', fontsize=14, title_fontsize=15, loc='upper left', facecolor='black')
+
+# Personalización de ejes y fondo
+plt.grid(True, color='#4682B4', linestyle='--', linewidth=0.5)
+plt.xticks(fontsize=13, color='yellow')
+plt.yticks(fontsize=13, color='yellow')
+
+# Borde y fondo de la figura
+plt.gca().set_facecolor('#001a33')
+plt.gcf().patch.set_facecolor('#001a33')
+
+plt.tight_layout()
+plt.show()
