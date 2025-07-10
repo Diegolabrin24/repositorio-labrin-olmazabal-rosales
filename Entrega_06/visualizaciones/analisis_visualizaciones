@@ -4,7 +4,7 @@
 
 ## Visualización 1: Métodos de Finalización por Región (UFC 2010–2021)
 
-![Métodos de Finalización por Región](finalizaciones_por_region_retro_style\ \(1\).jpg)
+![Métodos de Finalización por Región](finalizaciones_por_region_retro_style.jpg)
 
 **Objetivo:**  
 Comparar los métodos de finalización más frecuentes según la región de origen de los peleadores de UFC entre 2010 y 2021.
@@ -26,13 +26,13 @@ El gráfico revela que el origen regional condiciona tanto la estrategia como el
 Aunque la UFC es más global y diversa que nunca, la herencia cultural y la formación regional siguen “marcando el guion” de cómo se gana una pelea.
 
 - **Base usada:** `union-clean 1.xlsx`
-- **Imagen:** `finalizaciones_por_region_retro_style (1).jpg`
+- **Imagen:** `finalizaciones_por_region_retro_style.jpg`
 
 ---
 
 ## Visualización 2: Evolución de los Métodos de Finalización en la UFC (2010–2024)
 
-![Evolución de los métodos de finalización](evolucion_finalizaciones_base_diego_FINAL\ \(2\).jpg)
+![Evolución de los métodos de finalización](evolucion_finalizaciones_base_diego_FINAL.jpg)
 
 **Objetivo:**  
 Mostrar cómo ha evolucionado la frecuencia de los distintos métodos de finalización de pelea en la UFC a lo largo del tiempo.
@@ -52,13 +52,13 @@ La visualización revela una transición clara hacia peleas más parejas y técn
 La evolución del gráfico es la evidencia de la hipótesis: la globalización y el choque de escuelas han elevado el nivel técnico, disminuido las definiciones explosivas y empujado a los peleadores a buscar victorias por control y táctica, en lugar de solo potencia. El octágono actual premia tanto el Fight IQ como la agresividad.
 
 - **Base usada:** `union-clean 1.xlsx`
-- **Imagen:** `evolucion_finalizaciones_base_diego_FINAL (2).jpg`
+- **Imagen:** `evolucion_finalizaciones_base_diego_FINAL.jpg`
 
 ---
 
 ## Visualización 3: Duración promedio de peleas ganadas por región (UFC 2010–2024)
 
-![Duración promedio de peleas por región](duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER\ \(1\).jpg)
+![Duración promedio de peleas por región](duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER.jpg)
 
 **Objetivo:**  
 Comparar la duración promedio de las peleas ganadas según la región de origen del peleador.
@@ -74,4 +74,6 @@ En cambio, **Estados Unidos y Brasil** registran duraciones promedio algo menore
 Este gráfico aporta una dimensión de tiempo y ritmo a la historia de la UFC: las diferencias regionales no solo se notan en la técnica, sino también en el tempo de la pelea. Donde Eurasia y Asia ven una batalla de paciencia y estrategia, EE.UU. y Brasil siguen siendo tierra de espectáculo y definición rápida.
 
 - **Base usada:** `union-clean 1.xlsx`
-- **Imagen:** `duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER (1).jpg`
+- **Imagen:** `duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER.jpg`
+
+---
