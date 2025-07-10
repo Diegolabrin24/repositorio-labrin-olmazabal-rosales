@@ -15,10 +15,10 @@
 
 - En **Estados Unidos**, los nocauts y las decisiones unánimes son los métodos de victoria predominantes, reflejando una mezcla de agresividad y preparación táctica, en línea con la tradición local de boxeo y wrestling.
 - En **Brasil**, la sumisión sigue siendo un sello histórico, aunque las decisiones unánimes y los nocauts también ocupan un lugar relevante, mostrando una generación más versátil de peleadores.
-- **Eurasia** destaca por la altísima proporción de victorias por decisión unánime, símbolo de una escuela enfocada en el control, el grappling y la táctica a largo plazo, típica del sambo y la lucha soviética.
+- **Eurasia** destaca la proporción de victorias por decisión unánime, símbolo de una escuela enfocada en el control, el grappling y la táctica a largo plazo, típica del sambo y la lucha soviética.
 - **Asia** evidencia la importancia de la técnica y el puntaje, con la decisión unánime como vía principal y menor incidencia de KO y sumisión.
 
-**En síntesis:** Aunque la UFC es más global y diversa que nunca, la herencia cultural y la formación regional siguen “marcando el guion” de cómo se gana una pelea.
+**En síntesis:** La decisión unanime es el reflejo solido de que en los últimos años los combates se han vuelto más técnicos y pausados, donde se busca más ganar la pelea a traves de los puntos en vez de los KO'S. A diferencia de E.E.U.U y Brasil, en el bloque asiatico y euroasiatico se ve una diferencia más amplia entre la decisión unanime y los KO'S, a pesar de ser menos cantidad de peleadores. Esto, refleja una tendencia en la forma que los orientales finalizan sus combates.
 
 - **Base usada:** `union-clean 1.xlsx`
 - **Imagen:** `finalizaciones_por_region_retro_style.jpg`
@@ -40,7 +40,7 @@
 - Los **KO/TKO** se mantienen altos pero pierden protagonismo relativo, y las **sumisiones** crecen levemente, aunque sin recuperar el dominio de la era inicial del jiu-jitsu.
 - Las **decisiones divididas** se mantienen como el método menos frecuente, pero reflejan el aumento en la competitividad y el equilibrio de fuerzas.
 
-La evolución del gráfico es la evidencia de la hipótesis: la globalización y el choque de escuelas han elevado el nivel técnico, disminuido las definiciones explosivas y empujado a los peleadores a buscar victorias por control y táctica, en lugar de solo potencia. El octágono actual premia tanto el Fight IQ como la agresividad.
+La evolución del gráfico es la evidencia de la hipótesis: la globalización y el choque de escuelas han elevado el nivel técnico, disminuido las definiciones explosivas y empujado a los peleadores a buscar victorias por control y táctica, en lugar de solo potencia. El octágono actual premia tanto el Fight IQ como la agresividad. Pero hoy, dominan las decisiones unanimes, debido a la diversificación.
 
 - **Base usada:** `union-clean 1.xlsx`
 - **Imagen:** `evolucion_finalizaciones_base_diego_FINAL.jpg`
@@ -58,7 +58,7 @@ La evolución del gráfico es la evidencia de la hipótesis: la globalización y
 **Mensaje clave:** La visualización muestra que **Eurasia y Asia lideran en peleas largas**, con promedios superiores a los 11 minutos. Esto coincide con sus estilos enfocados en el desgaste, la táctica y el control posicional.
 En cambio, **Estados Unidos y Brasil** registran duraciones promedio algo menores, producto de estilos más explosivos y de buscar la finalización rápida (ya sea por KO o sumisión).
 
-Este gráfico aporta una dimensión de tiempo y ritmo a la historia de la UFC: las diferencias regionales no solo se notan en la técnica, sino también en el tempo de la pelea. Donde Eurasia y Asia ven una batalla de paciencia y estrategia, EE.UU. y Brasil siguen siendo tierra de espectáculo y definición rápida.
+Este gráfico aporta una dimensión de tiempo y ritmo a la historia de la UFC: las diferencias regionales no solo se notan en la técnica, sino también en el tempo de la pelea. Donde Eurasia y Asia ven una batalla de paciencia y estrategia, EE.UU. y Brasil siguen siendo tierra de definición rápida.
 
 - **Base usada:** `union-clean 1.xlsx`
 - **Imagen:** `duracion_promedio_por_region_retro_SELECCION_FINAL_NOBORDER.jpg`
